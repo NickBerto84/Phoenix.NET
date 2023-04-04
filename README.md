@@ -1,6 +1,6 @@
 ## Phoenix.NET ##
 <br><br>
-Phoenix.NET is a TCP-based, Pub/Sub C# library. It is developed to allow an easy-to-use, channel-separated communication on a LAN infrastructure.
+**Phoenix.NET** is a TCP-based, Pub/Sub C# library. It is developed to allow an easy-to-use, channel-separated communication on a LAN infrastructure.
 <br><br>
 The library provides a server and two client types: one for network communication and one for local communication.
 <br>
